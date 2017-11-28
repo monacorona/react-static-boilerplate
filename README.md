@@ -31,7 +31,7 @@ or [ProductHunt](https://www.producthunt.com/tech/react-static-boilerplate) &nbs
 
 ---
 
-This project was bootstraped with [React Static Boilerplate][rsb] by [Kriasoft][kriasoft] ([support][gitter]).
+This project was bootstrapped with [React Static Boilerplate][rsb] by [Kriasoft][kriasoft] ([support][gitter]).
 
 ### Tech Stack
 
